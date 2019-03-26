@@ -98,6 +98,7 @@ Finally, we sought "artifacts" that demonstrate symbiotic relationships among pr
 ![screen shot](images/praxis-screenshot-extraordinary-materials.jpg)
 
 * Source URL: <http://dada.cca.edu/~drosner/materials/syllabus.html>
+* Copy of Artifact: [files/praxis-extraordinary-materials.pdf](files/praxis-extraordinary-materials.pdf)
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
 
 "(Extra)ordinary Materials" is a Human-Centered Design and Engineering course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiments, and student participation, "(Extra)ordinary Materials" exemplifies praxis through deep investigation of material culture and objects alongside exploration of the concepts of "mutability, reproduction, age and belonging." Readings are paired with hands-on, individual and group investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of experiential work and theoretical readings to best explore a range of materials and properties.
